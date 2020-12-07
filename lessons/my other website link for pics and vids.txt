@@ -1,0 +1,36 @@
+<html>
+ <body>
+
+
+<h1> Pictures and videos of our travels</h1>
+
+
+
+  <img src="https://live.staticflickr.com/4285/35552247455_abf3f5d0fc_b.jpg"height="600" width="400"/>
+
+         <img src ="https://live.staticflickr.com/4553/38508285336_373cd894d4_h.jpg" height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/4649/39907060254_6da7998199_h.jpg" height=600" width=400"/>
+
+         <img src="https://live.staticflickr.com/1759/42138771464_3fab4cd36b_h.jpg" height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/1869/43343057115_525eeca1b9_h.jpg" height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/7851/47040382372_ace0037be4_h.jpg" height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/65535/47709600831_2c125081ec_h.jpg" height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/65535/48495985086_bcec85875c_h.jpg"height="600" width="400"/>
+
+         <img src="https://live.staticflickr.com/4741/40600197951_7c71330b3b_h.jpg" height="600" width="400"/>
+
+         <iframe width="600" height="600" src="https://www.youtube.com/embed/bqp3KqEtREo"> height="600" width="400"</iframe>
+
+         <img src="https://lh3.googleusercontent.com/DE6pYaoNk8_poqS3-8vDrLjbenw6KcnebtfNxxCgQe0oPmtUORb_FzWydjoQmvIqRgiLEUTEe3e0Qmzooa_vaSPSYo2Y55Ztiltbsq_a5HV5hsTySr3WiwwE2vrRP9jVmIhpddi8JQJRAvZy6BijH5to4Ieeg6-acn7OaxV6R4WSu_gtsORkxUseT4iB1xf9yWUx-HGrjqoPyKF0UTBn-GxRLR9nSnshme6Pa2i-AefCJGsAOUU4xiRQPgL2uutVjITfVKNuoYI9pvR9SHow_3oHUb60uGnvdwhgdLxMYKCjeI6ZnDF6TTuT16wBVIelM2rm_FiEUkeARcttCHeg7YNuQjYIEQXhysFIFXLDOT0AKNTctpeBAjNrHkXQgtcVecDUJGT6hHd-5SSweQoqmcD590tUzLGuOuMe_TX9S_pbyXK4pLUZWIgyUQDTBiarY4dD3CkUtf6-x4qnwbXesyCXGIv2SW2e0ZhlZ4YLRKv0al7huO-DEuwd-yUXeSgPabLZeUmihIL70yfxfdqfiobVeJXkZnDrNVMCcweEEDpSn0i8Truc3zxbtgQcFDNn3jhWpDBRZKE2l8gIvlgUanBHO9cqS_t3sUVzDQLUnAkQ85biggngH5k-F2fI8FgEYwdU81KpOvb72SvLZ45MTj0kPCIm3op-3DGF1H7Gfuk5Yjw8FMUrbftkocZt=w276-h207-no?authuser=0" height="600" width="400"/>
+        <img src="https://live.staticflickr.com/4609/38790528410_6626f77f49_b.jpg" height="600" width="400"/>
+
+        <Link href="./style.css" type="text\css " rel=="stylesheet"/>
+
+
+
+    </html>
